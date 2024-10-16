@@ -25,6 +25,8 @@ main {
   background-color: #fff7f7;
   padding: 10px;
   border-radius: 10px;
+  border: solid;
+  border-color: black;
   width: 100%;
   max-width: 600px;
   min-height: 200px;
@@ -54,13 +56,15 @@ button {
   width: 100%;
   text-align: start;
   padding: 5px;
-  border: none;
+  border: solid;
+  border-color: rgb(20, 98, 9);
   border-radius: 5px;
   cursor: pointer;
 background-color: black;
   color: white;
 }
 button:hover {
+  border-color: black;
   background-color: rgb(20, 98, 9);
   color: black;
 }

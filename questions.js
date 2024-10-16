@@ -50,4 +50,54 @@ export default [
         { option: "D) As desigualdades sociais tornam crianças e adolescentes mais vulneráveis às mudanças climáticas, pois os mais pobres têm menos acesso a serviços essenciais, como saúde, educação e saneamento, o que os deixa expostos a riscos maiores de desastres ambientais e crises de saúde.", correct: true },
       ],
     },
+    {
+      question: "Quais hábitos sustentáveis, como o uso de garrafas reutilizáveis ou a redução do consumo de plástico, podemos promover entre os colegas na escola?",
+      answers: [
+        { option: "É importante incentivar o uso de copos plásticos descartáveis para garantir a higiene e reduzir o uso de garrafas reutilizáveis, que podem ser difíceis de limpar.", correct: false },
+        { option: "O hábito sustentável mais eficiente é substituir as garrafas por copos de vidro na escola, já que eles são mais pesados e evitam o desperdício.", correct: false },
+        { option: "O melhor hábito sustentável é evitar o uso de qualquer tipo de garrafa, incentivando os alunos a não beberem água enquanto estão na escola.", correct: false },
+        { option: "Para promover hábitos sustentáveis, devemos incentivar o uso de garrafas descartáveis, já que são mais práticas e fáceis de descartar após o uso.", correct: false },
+        { option: "Promover o uso de garrafas reutilizáveis, reduzir o consumo de plásticos descartáveis, organizar campanhas de reciclagem e estimular a troca de materiais entre os colegas são formas eficazes de incentivar hábitos sustentáveis na escola.", correct: true },
+      ],
+    },
+    {
+      question: "Como podemos aproveitar melhor os espaços ao ar livre da escola para promover atividades ecológicas, como plantio de árvores e cuidado com o meio ambiente?",
+      answers: [
+        { option: "Podemos utilizar os espaços ao ar livre da escola para organizar piqueniques frequentes, sem a necessidade de atividades ecológicas, já que a natureza se cuida sozinha.", correct: false },
+        { option: "Aproveitar melhor os espaços ao ar livre da escola plantando árvores, criando hortas comunitárias, organizando mutirões de limpeza e conscientizando os alunos sobre a importância do cuidado com o meio ambiente.", correct: true },
+        { option: "Devemos cimentar os espaços ao ar livre para evitar a proliferação de plantas e insetos, tornando o ambiente mais limpo e controlado.", correct: false },
+        { option: "Os espaços ao ar livre podem ser usados apenas para decoração com plantas artificiais, já que isso evita o trabalho de cuidar do meio ambiente.", correct: false },
+        { option: "Os espaços ao ar livre devem ser reservados apenas para atividades esportivas, sem incluir ações relacionadas ao meio ambiente, como o plantio de árvores.", correct: false },
+      ],
+    },
+    {
+      question: "Que atividades extracurriculares ou clubes ambientais podem ser criados na escola para que jovens liderem ações sustentáveis?",
+      answers: [
+        { option: "Criar clubes ambientais como hortas escolares, grupos de reciclagem, clubes de energia sustentável e equipes de conscientização ambiental, onde os alunos possam organizar campanhas e promover ações ecológicas.", correct: true },
+        { option: "Um grupo de estudos focado em assistir vídeos sobre o meio ambiente, sem necessidade de ações práticas, já que o aprendizado teórico é suficiente.", correct: false },
+        { option: "Um clube de competição para ver quem consegue consumir mais plástico em uma semana, promovendo o descarte rápido de materiais.", correct: false },
+        { option: "Uma equipe de pintura que usa tintas tóxicas para cobrir paredes da escola, promovendo o uso de produtos químicos para deixar o ambiente mais colorido.", correct: false },
+        { option: "Um clube de entretenimento que organiza festas regulares com descartáveis para evitar a limpeza, promovendo a praticidade ao invés da sustentabilidade.", correct: false },
+      ],
+    },
+    {
+      question: "De que forma podemos utilizar a tecnologia, como aplicativos e redes sociais, para promover ações de preservação ambiental na escola e na comunidade?",
+      answers: [
+        { option: "Usar aplicativos e redes sociais para promover o uso de materiais descartáveis, já que são mais práticos e podem ser rapidamente substituídos.", correct: false },
+        { option: "Criar grupos em redes sociais para compartilhar vídeos engraçados sobre o meio ambiente, sem focar em ações práticas de preservação.", correct: false },
+        { option: "Usar redes sociais para incentivar o uso de produtos de plástico, promovendo a sua compra em grandes quantidades para garantir o consumo consciente.", correct: false },
+        { option: "Utilizar aplicativos e redes sociais para organizar campanhas de conscientização ambiental, promover desafios de reciclagem, divulgar eventos de limpeza comunitária e incentivar o plantio de árvores na escola e na comunidade.", correct: true },
+        { option: "Utilizar a tecnologia apenas para entretenimento, sem envolver questões ambientais, já que a preservação do meio ambiente deve ser feita fora do mundo digital.", correct: false },
+      ],
+    },
+    {
+      question: "Como podemos colaborar com organizações externas ou ONGs para realizar projetos ambientais que beneficiem não apenas a escola, mas também a comunidade local?",
+      answers: [
+        { option: "Devemos evitar colaborar com ONGs e organizações externas, pois elas podem impor regras que não se alinham com os interesses da escola.", correct: false },
+        { option: "Podemos colaborar com ONGs apenas para arrecadar fundos para a escola, sem envolver projetos ambientais ou beneficiar a comunidade.", correct: false },
+        { option: "Podemos estabelecer parcerias com ONGs para organizar mutirões de limpeza, plantio de árvores, campanhas de reciclagem e educação ambiental, envolvendo tanto a escola quanto a comunidade local em ações sustentáveis.", correct: true },
+        { option: "A melhor maneira de colaborar com ONGs é solicitar doações de produtos descartáveis para aumentar o consumo na escola e na comunidade.", correct: false },
+        { option: "Podemos colaborar com organizações externas para realizar eventos sociais que não envolvem a preservação ambiental, focando apenas no entretenimento.", correct: false },
+      ],
+    },    
   ];
